@@ -1,8 +1,11 @@
 {
-  "name": "libsignal",
+  "name": "wa-libsignal",
   "version": "2.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "ForstaLabs/libsignal-node",
+  "homepage": "https://github.com/vinter87/baileys-libsignal-node",
+  "repository": {
+    "url": "git+ssh://git@github.com/vinter87/baileys-libsignal-node.git"
+  },
   "main": "index.js",
   "keywords": [
     "signal",
@@ -19,5 +22,12 @@
   ],
   "devDependencies": {
     "eslint": "6.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/vinter87/baileys-libsignal-node/issues"
   }
 }
