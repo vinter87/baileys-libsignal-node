@@ -4,7 +4,7 @@
   "description": "Open Whisper Systems' libsignal for Node.js",
   "homepage": "https://github.com/vinter87/baileys-libsignal-node",
   "repository": {
-    "url": "git@github.com/vinter87/baileys-libsignal-node.git"
+    "url": "https://github.com/vinter87/baileys-libsignal-node"
   },
   "main": "index.js",
   "keywords": [
